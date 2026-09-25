@@ -1,0 +1,14 @@
+﻿  lab4.c
+D:\labs&prac\oa&p\lab4\lab4\lab4.c(14,2): warning C4013: task4_2_3: нет определения; предполагается "extern" с возвратом типа "int"
+D:\labs&prac\oa&p\lab4\lab4\lab4.c(120,9): warning C4473: "printf": передано недостаточно аргументов для строки формата
+      D:\labs&prac\oa&p\lab4\lab4\lab4.c(120,9):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 0
+      D:\labs&prac\oa&p\lab4\lab4\lab4.c(120,9):
+      отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+  
+D:\labs&prac\oa&p\lab4\lab4\lab4.c(191,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\labs&prac\oa&p\lab4\lab4\lab4.c(112,1): warning C4716: task4_1_4: должна возвращать значение
+D:\labs&prac\oa&p\lab4\lab4\lab4.c(128,1): warning C4716: task4_1_5: должна возвращать значение
+D:\labs&prac\oa&p\lab4\lab4\lab4.c(185,1): warning C4716: task4_2_2: должна возвращать значение
+D:\labs&prac\oa&p\lab4\lab4\lab4.c(193,1): warning C4716: task4_2_3: должна возвращать значение
+  lab4.vcxproj -> D:\labs&prac\oa&p\lab4\x64\Debug\lab4.exe
