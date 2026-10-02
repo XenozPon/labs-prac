@@ -1,0 +1,7 @@
+﻿  lab1.c
+D:\repos\lab1-ParushevIlia-pibd-11\lab1-ParushevIlia-pibd-11\lab1.c(213,2): warning C4013: SetConsoleCP: нет определения; предполагается "extern" с возвратом типа "int"
+D:\repos\lab1-ParushevIlia-pibd-11\lab1-ParushevIlia-pibd-11\lab1.c(214,2): warning C4013: SetConsoleOutputCP: нет определения; предполагается "extern" с возвратом типа "int"
+D:\repos\lab1-ParushevIlia-pibd-11\lab1-ParushevIlia-pibd-11\lab1.c(223,31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\repos\lab1-ParushevIlia-pibd-11\lab1-ParushevIlia-pibd-11\lab1.c(224,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\repos\lab1-ParushevIlia-pibd-11\lab1-ParushevIlia-pibd-11\lab1.c(225,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  lab1-ParushevIlia-pibd-11.vcxproj -> D:\repos\lab1-ParushevIlia-pibd-11\x64\Debug\lab1-ParushevIlia-pibd-11.exe

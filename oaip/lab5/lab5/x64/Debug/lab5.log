@@ -1,0 +1,5 @@
+﻿  myGame.c
+D:\labsPrac\oaip\lab5\lab5\myGame.c(18,9): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+D:\labsPrac\oaip\lab5\lab5\myGame.c(39,13): warning C4013: scanf_s: нет определения; предполагается "extern" с возвратом типа "int"
+D:\labsPrac\oaip\lab5\lab5\myGame.c(87,22): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  lab5.vcxproj -> D:\labsPrac\oaip\lab5\x64\Debug\lab5.exe

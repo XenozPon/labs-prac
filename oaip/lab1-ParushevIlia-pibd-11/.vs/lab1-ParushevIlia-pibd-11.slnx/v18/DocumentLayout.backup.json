@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\lab1-ParushevIlia-pibd-11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{147065F1-A2A2-4987-A391-2C69C49B70FD}|lab1-ParushevIlia-pibd-11\\lab1-ParushevIlia-pibd-11.vcxproj|D:\\repos\\lab1-ParushevIlia-pibd-11\\lab1-ParushevIlia-pibd-11\\lab1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{147065F1-A2A2-4987-A391-2C69C49B70FD}|lab1-ParushevIlia-pibd-11\\lab1-ParushevIlia-pibd-11.vcxproj|solutionrelative:lab1-ParushevIlia-pibd-11\\lab1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab1.c",
+              "DocumentMoniker": "D:\\repos\\lab1-ParushevIlia-pibd-11\\lab1-ParushevIlia-pibd-11\\lab1.c",
+              "RelativeDocumentMoniker": "lab1-ParushevIlia-pibd-11\\lab1.c",
+              "ToolTip": "D:\\repos\\lab1-ParushevIlia-pibd-11\\lab1-ParushevIlia-pibd-11\\lab1.c",
+              "RelativeToolTip": "lab1-ParushevIlia-pibd-11\\lab1.c",
+              "ViewState": "AgIAANQAAAAAAAAAAADwv+IAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-03T18:57:36.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

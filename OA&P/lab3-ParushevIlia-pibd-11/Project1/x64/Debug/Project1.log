@@ -1,7 +1,0 @@
-﻿  lab3.c
-D:\repos\labs\OA&P\lab3-ParushevIlia-pibd-11\Project1\lab3.c(225,2): warning C4013: SetConsoleCP: нет определения; предполагается "extern" с возвратом типа "int"
-D:\repos\labs\OA&P\lab3-ParushevIlia-pibd-11\Project1\lab3.c(226,2): warning C4013: SetConsoleOutputCP: нет определения; предполагается "extern" с возвратом типа "int"
-D:\repos\labs\OA&P\lab3-ParushevIlia-pibd-11\Project1\lab3.c(237,7): warning C4101: a: неиспользованная локальная переменная
-D:\repos\labs\OA&P\lab3-ParushevIlia-pibd-11\Project1\lab3.c(238,7): warning C4101: S: неиспользованная локальная переменная
-D:\repos\labs\OA&P\lab3-ParushevIlia-pibd-11\Project1\lab3.c(236,7): warning C4101: i: неиспользованная локальная переменная
-  Project1.vcxproj -> D:\repos\labs\OA&P\lab3-ParushevIlia-pibd-11\x64\Debug\Project1.exe

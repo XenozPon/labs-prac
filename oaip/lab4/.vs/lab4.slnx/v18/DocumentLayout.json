@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\labs\u0026prac\\oa\u0026p\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F380C6A7-927B-435F-A6BF-E8CBAAD74CA1}|lab4\\lab4.vcxproj|D:\\labs\u0026prac\\oa\u0026p\\lab4\\lab4\\lab4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F380C6A7-927B-435F-A6BF-E8CBAAD74CA1}|lab4\\lab4.vcxproj|solutionrelative:lab4\\lab4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4.c",
+              "DocumentMoniker": "D:\\labs\u0026prac\\oa\u0026p\\lab4\\lab4\\lab4.c",
+              "RelativeDocumentMoniker": "lab4\\lab4.c",
+              "ToolTip": "D:\\labs\u0026prac\\oa\u0026p\\lab4\\lab4\\lab4.c",
+              "RelativeToolTip": "lab4\\lab4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-25T06:23:43.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

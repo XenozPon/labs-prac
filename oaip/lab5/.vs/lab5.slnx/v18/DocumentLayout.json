@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\labsPrac\\oaip\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F06A1C8-0D88-4BF0-91FE-7E0582EBC694}|lab5\\lab5.vcxproj|D:\\labsPrac\\oaip\\lab5\\lab5\\myGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F06A1C8-0D88-4BF0-91FE-7E0582EBC694}|lab5\\lab5.vcxproj|solutionrelative:lab5\\myGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F06A1C8-0D88-4BF0-91FE-7E0582EBC694}|lab5\\lab5.vcxproj|D:\\labsPrac\\oaip\\lab5\\lab5\\lab5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F06A1C8-0D88-4BF0-91FE-7E0582EBC694}|lab5\\lab5.vcxproj|solutionrelative:lab5\\lab5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F06A1C8-0D88-4BF0-91FE-7E0582EBC694}|lab5\\lab5.vcxproj|D:\\labsPrac\\oaip\\lab5\\lab5\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F06A1C8-0D88-4BF0-91FE-7E0582EBC694}|lab5\\lab5.vcxproj|solutionrelative:lab5\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myGame.c",
+              "DocumentMoniker": "D:\\labsPrac\\oaip\\lab5\\lab5\\myGame.c",
+              "RelativeDocumentMoniker": "lab5\\myGame.c",
+              "ToolTip": "D:\\labsPrac\\oaip\\lab5\\lab5\\myGame.c",
+              "RelativeToolTip": "lab5\\myGame.c",
+              "ViewState": "AgIAAEoAAAAAAAAAAAA1wHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-02T20:31:25.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\labsPrac\\oaip\\lab5\\lab5\\game.c",
+              "RelativeDocumentMoniker": "lab5\\game.c",
+              "ToolTip": "D:\\labsPrac\\oaip\\lab5\\lab5\\game.c",
+              "RelativeToolTip": "lab5\\game.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-02T19:00:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab5.c",
+              "DocumentMoniker": "D:\\labsPrac\\oaip\\lab5\\lab5\\lab5.c",
+              "RelativeDocumentMoniker": "lab5\\lab5.c",
+              "ToolTip": "D:\\labsPrac\\oaip\\lab5\\lab5\\lab5.c",
+              "RelativeToolTip": "lab5\\lab5.c",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAAAGsBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-02T16:05:52.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-﻿  lab2.c
-D:\repos\labs\OA&P\lab2-ParushevIlia-pibd-11\lab2-ParushevIlia-pibd-11\lab2.c(249,2): warning C4013: SetConsoleCP: нет определения; предполагается "extern" с возвратом типа "int"
-D:\repos\labs\OA&P\lab2-ParushevIlia-pibd-11\lab2-ParushevIlia-pibd-11\lab2.c(250,2): warning C4013: SetConsoleOutputCP: нет определения; предполагается "extern" с возвратом типа "int"
-  lab2-ParushevIlia-pibd-11.vcxproj -> D:\repos\labs\OA&P\lab2-ParushevIlia-pibd-11\x64\Debug\lab2-ParushevIlia-pibd-11.exe
