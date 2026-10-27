@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab8oaip/lab8oaip.vcxproj" Id="b3811dae-35dc-46b8-bf63-8f9c6f6e054a" />
+</Solution>
