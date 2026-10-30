@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilapa\\OneDrive\\Desktop\\labs-prac\\oaip\\lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61208F-8B6F-434B-8C8E-62974AE879E6}|9_3\\9_3.vcxproj|C:\\Users\\ilapa\\OneDrive\\Desktop\\labs-prac\\oaip\\lab9\\9_3\\9_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB61208F-8B6F-434B-8C8E-62974AE879E6}|9_3\\9_3.vcxproj|solutionrelative:9_3\\9_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC426AE6-4A1A-4CD7-9586-D0F46554A685}|laba9\\laba9.vcxproj|C:\\Users\\ilapa\\OneDrive\\Desktop\\labs-prac\\oaip\\lab9\\laba9\\laba9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC426AE6-4A1A-4CD7-9586-D0F46554A685}|laba9\\laba9.vcxproj|solutionrelative:laba9\\laba9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9_3.cpp",
+              "DocumentMoniker": "C:\\Users\\ilapa\\OneDrive\\Desktop\\labs-prac\\oaip\\lab9\\9_3\\9_3.cpp",
+              "RelativeDocumentMoniker": "9_3\\9_3.cpp",
+              "ToolTip": "C:\\Users\\ilapa\\OneDrive\\Desktop\\labs-prac\\oaip\\lab9\\9_3\\9_3.cpp*",
+              "RelativeToolTip": "9_3\\9_3.cpp*",
+              "ViewState": "AgIAANcAAAAAAAAAAAAiwOYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-30T16:13:09.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "laba9.cpp",
+              "DocumentMoniker": "C:\\Users\\ilapa\\OneDrive\\Desktop\\labs-prac\\oaip\\lab9\\laba9\\laba9.cpp",
+              "RelativeDocumentMoniker": "laba9\\laba9.cpp",
+              "ToolTip": "C:\\Users\\ilapa\\OneDrive\\Desktop\\labs-prac\\oaip\\lab9\\laba9\\laba9.cpp",
+              "RelativeToolTip": "laba9\\laba9.cpp",
+              "ViewState": "AgIAABoCAAAAAAAAAAAIwDACAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-28T14:26:01.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
